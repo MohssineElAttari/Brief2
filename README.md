@@ -1,4 +1,6 @@
 # Brief2
+https://mohssineelattari.github.io/Brief2/index.html
+
 Apporter des modifications à un site fourni 
 Contexte du projet
 Dans le cadre d’améliorer son site votre client va vous fournir le code source de son site
